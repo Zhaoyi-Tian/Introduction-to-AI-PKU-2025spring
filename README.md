@@ -1,6 +1,11 @@
 # Introduction-to-AI-PKU-2025spring
 北京大学（PKU）2025年春季学期人工智能引论lab
 
+*lab1*: 搜索
+*lab2*: 机器学习
+*lab3*: 自然语言处理
+*lab4*: 机器人与仿真
+
 我完成lab时参考过学长的代码，其这是[其github的库](https://github.com/Minechuan/AIIntroLabs)
 
 总共4个lab,我会给出我的得分和一些踩过的坑，放在对应的READMElab1,2,3,4中。
