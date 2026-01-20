@@ -3,7 +3,7 @@ import subprocess
 import numpy as np
 import time
 
-PYTHON_PATH = "D:/HuaweiMoveData/Users/50376/Desktop/Ai引论/2025-AI-intro-lab4-release-v1.6/.venv/Scripts/python.exe"
+PYTHON_PATH = "/home/tzy/anaconda3/envs/ai_intro/bin/python"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--q", choices=["q1", "q2", "q3", "all"], default="all")

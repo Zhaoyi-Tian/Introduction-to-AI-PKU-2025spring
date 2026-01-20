@@ -3,7 +3,7 @@ import subprocess
 from util import TimeoutFunction
 import numpy as np
 
-PYTHON_PATH = r"D:\HuaweiMoveData\Users\50376\Desktop\Ai引论\lab3-release-CN\part1\.venv/Scripts\python.exe"
+PYTHON_PATH = "/home/tzy/anaconda3/envs/ai_intro/bin/python"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--q", choices=["q1", "q2", "q3", "all"], default="all")
